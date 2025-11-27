@@ -1,0 +1,9 @@
+1) O que são frameworks backend e qual sua principal vantagem no desenvolvimento de servidores web?
+
+2) Cite dois exemplos de serviços externos que podem ser integrados em aplicativos web e explique como eles podem agregar valor ao sistema.
+
+3) Explique por que é importante realizar testes ao integrar serviços externos em uma aplicação. Cite ao menos dois tipos de testes que podem ser realizados.
+
+4) Descreva duas práticas de segurança essenciais para proteger servidores web contra ataques comuns (por exemplo, SQL Injection, XSS).
+
+5) O que é autenticação e o que é autorização? Dê um exemplo simples de cada um no contexto de APIs seguras.
